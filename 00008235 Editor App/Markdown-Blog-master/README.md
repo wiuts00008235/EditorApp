@@ -11,7 +11,7 @@ git clone [https://github.com/wiuts00008235/EditorApp.git]
 
 2. Install dependencies
 ```bash
-cd [project folder]
+cd [Markdown-Blog-master]
 npm install
 --save-dev nodemon
 ```
