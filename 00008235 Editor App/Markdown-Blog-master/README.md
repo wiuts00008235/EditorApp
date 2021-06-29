@@ -29,3 +29,6 @@ npm run devStart
 
 ### Web app repository on github
 [Editor App](https://github.com/wiuts00008235/EditorApp)
+
+### Web app link on glinch
+[Editor App](https://seasoned-linen-yamamomo.glitch.me)
