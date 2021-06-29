@@ -28,4 +28,4 @@ npm run devStart
  - mongoose.js [https://mongoosejs.com/]
 
 ### Web app repository on github
-(https://github.com/wiuts00008235/EditorApp)[Editor App]
+[Editor App](https://github.com/wiuts00008235/EditorApp)
